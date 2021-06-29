@@ -5,7 +5,7 @@
 
 - Computer Vision and High-Performance Computing - C/C++
 - Machine Learning with Python - Pandas, NumPy, TensorFlow, PyTorch
-- Frontend Web Development - HTMl, CSS, JS, PHP, Angular, React
+- Frontend Web Development - HTML, CSS, JS, PHP, Angular, React
 - Backend Web Development - MySQL, PostgreSQL, Firebase, SQLite
 
 ### 📧 Contact
