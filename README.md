@@ -7,6 +7,7 @@
 - Machine Learning with Python - Pandas, NumPy, TensorFlow, PyTorch
 - Frontend Web Development - HTML, CSS, JS, PHP, Angular, React
 - Backend Web Development - MySQL, PostgreSQL, Firebase, SQLite
+- Game Development - Unity & Unreal Engine
 
 ### 📧 Contact
 
