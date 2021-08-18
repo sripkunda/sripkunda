@@ -12,4 +12,4 @@
 ### 📧 Contact
 
 **Email:** [sripkunda@gmail.com](mailto:sripkunda@gmail.com)<br>
-**LinkedIn:** https://www.linkedin.com/in/sri-pranav-kunda-3a38931b7/
+**LinkedIn:** https://www.linkedin.com/in/sripkunda/
