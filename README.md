@@ -1,4 +1,4 @@
-# Hey, I'm Sri!
+# Hey, I'm Sri
 ### I'm interested in theoretical computing, machine learning, and web development.
 
 ### 💻 Skills
